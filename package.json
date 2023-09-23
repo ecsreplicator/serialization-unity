@@ -1,0 +1,21 @@
+{
+  "name": "com.ecsreplicator.serialization.unity",
+  "version": "0.0.1",
+  "displayName": "ECS Replicator Serialization for Unity",
+  "description": "Serializes ECS components and events using DOTS",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.entities": "1.0.11"
+  },
+  "author": {
+    "name": "Peter Bjorklund / ECS Replicator",
+    "email": "piot@hotmail.com",
+    "url": "https://github.com/piot"
+  },
+  "changelogUrl": "https://github.com/ecs-replicator/serialization-unity/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/ecs-replicator/serialization-unity/blob/main/README.md",
+  "keywords": [],
+  "license": "MIT",
+  "licensesUrl": "https://github.com/ecs-replicator/serialization-unity/blob/main/LICENSE",
+  "samples": []
+}

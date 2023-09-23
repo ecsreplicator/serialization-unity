@@ -1,0 +1,24 @@
+{
+  "name": "EcsReplicator.Serialization.Unity.Generate",
+  "rootNamespace": "EcsReplicator.Serialization.Unity.Generate",
+  "references": [
+    "Unity.Entities",
+    "Unity.Collections",
+    "Piot.CSharpSourceGenerator",
+    "EcsReplicator.Attributes.Scan"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Mono.CecilEx.dll",
+    "Mono.CecilEx.Rocks.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
